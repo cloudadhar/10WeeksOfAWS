@@ -26,6 +26,7 @@ classroom support and Mini-Mock 1.
 | 07 | End | Submit Week 5 evidence | [07-submission-format.md](./07-submission-format.md) |
 | 08 | Daily | Share learning progress | [08-linkedin-post.md](./08-linkedin-post.md) |
 | 09 | Review | Revise the key decisions and Mini-Mock themes | [09-quick-revision.md](./09-quick-revision.md) |
+| 10 | Quiz | Test Day 9 and Day 10 understanding | [10-quiz.md](./10-quiz.md) |
 
 ## Required Outcomes
 
